@@ -128,6 +128,141 @@ TextureImporter:
   - first:
       213: -1671332569074685459
     second: Elevated_Simple_Sprite_Sheet_41
+  - first:
+      213: -6910767229310485324
+    second: Elevated_Simple_Sprite_Sheet_0
+  - first:
+      213: -503938674011402061
+    second: Elevated_Simple_Sprite_Sheet_1
+  - first:
+      213: 989192283024510282
+    second: Elevated_Simple_Sprite_Sheet_2
+  - first:
+      213: 2804278378276613496
+    second: Elevated_Simple_Sprite_Sheet_3
+  - first:
+      213: 8852095496513951868
+    second: Elevated_Simple_Sprite_Sheet_4
+  - first:
+      213: 7258494201678667822
+    second: Elevated_Simple_Sprite_Sheet_5
+  - first:
+      213: -1959087791264585230
+    second: Elevated_Simple_Sprite_Sheet_6
+  - first:
+      213: -8564576361065453800
+    second: Elevated_Simple_Sprite_Sheet_7
+  - first:
+      213: 412163478477783331
+    second: Elevated_Simple_Sprite_Sheet_8
+  - first:
+      213: 5328125702169301162
+    second: Elevated_Simple_Sprite_Sheet_9
+  - first:
+      213: -1712318331238084543
+    second: Elevated_Simple_Sprite_Sheet_10
+  - first:
+      213: -2461641477905401949
+    second: Elevated_Simple_Sprite_Sheet_11
+  - first:
+      213: 7814226443966273816
+    second: Elevated_Simple_Sprite_Sheet_12
+  - first:
+      213: 1421186698755852906
+    second: Elevated_Simple_Sprite_Sheet_13
+  - first:
+      213: -7243744268550050646
+    second: Elevated_Simple_Sprite_Sheet_14
+  - first:
+      213: 843120327204177959
+    second: Elevated_Simple_Sprite_Sheet_15
+  - first:
+      213: 7947095506890516000
+    second: Elevated_Simple_Sprite_Sheet_16
+  - first:
+      213: 1721148467114276757
+    second: Elevated_Simple_Sprite_Sheet_17
+  - first:
+      213: 3337719998247835931
+    second: Elevated_Simple_Sprite_Sheet_18
+  - first:
+      213: -4329737999430786544
+    second: Elevated_Simple_Sprite_Sheet_19
+  - first:
+      213: 634406270469804549
+    second: Elevated_Simple_Sprite_Sheet_20
+  - first:
+      213: -2404530450885889394
+    second: Elevated_Simple_Sprite_Sheet_21
+  - first:
+      213: 5889165902672773542
+    second: Elevated_Simple_Sprite_Sheet_22
+  - first:
+      213: -4767995014341629759
+    second: Elevated_Simple_Sprite_Sheet_23
+  - first:
+      213: 6391116593559321306
+    second: Elevated_Simple_Sprite_Sheet_24
+  - first:
+      213: 8083290623382981579
+    second: Elevated_Simple_Sprite_Sheet_25
+  - first:
+      213: 6005998201129648774
+    second: Elevated_Simple_Sprite_Sheet_26
+  - first:
+      213: -7049176554212063312
+    second: Elevated_Simple_Sprite_Sheet_27
+  - first:
+      213: 5021590002075831920
+    second: Elevated_Simple_Sprite_Sheet_28
+  - first:
+      213: 4321167721123313582
+    second: Elevated_Simple_Sprite_Sheet_29
+  - first:
+      213: 3698410384012993507
+    second: Elevated_Simple_Sprite_Sheet_30
+  - first:
+      213: 6684958030444497349
+    second: Elevated_Simple_Sprite_Sheet_31
+  - first:
+      213: 5769059549166850674
+    second: Elevated_Simple_Sprite_Sheet_32
+  - first:
+      213: -7094286720311338726
+    second: Elevated_Simple_Sprite_Sheet_33
+  - first:
+      213: 6346473888155893267
+    second: Elevated_Simple_Sprite_Sheet_34
+  - first:
+      213: -7890327724039710232
+    second: Elevated_Simple_Sprite_Sheet_35
+  - first:
+      213: -7229734072816797258
+    second: Elevated_Simple_Sprite_Sheet_36
+  - first:
+      213: -2947649028531303130
+    second: Elevated_Simple_Sprite_Sheet_37
+  - first:
+      213: 3352578174481909884
+    second: Elevated_Simple_Sprite_Sheet_38
+  - first:
+      213: -4701884865100900842
+    second: Elevated_Simple_Sprite_Sheet_39
+  - first:
+      213: -7132704567587997495
+    second: Elevated_Simple_Sprite_Sheet_40
+  - first:
+      213: -1503992365960403095
+    second: Elevated_Simple_Sprite_Sheet_41
+  - first:
+      213: 6685680542038474086
+    second: Elevated_Simple_Sprite_Sheet_42
+  - first:
+      213: -6681120922718886427
+    second: Elevated_Simple_Sprite_Sheet_43
+  - first:
+      213: -8302356623637730021
+    second: Elevated_Simple_Sprite_Sheet_44
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -225,14 +360,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: -8}
-        - {x: -8, y: 0}
-        - {x: 8, y: 0}
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
         - {x: 8, y: -8}
+        - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: ae80dd7924deb7f70800000000000000
-      internalID: 9186196735223728362
+      spriteID: 4bcb98bd1d50810a0800000000000000
+      internalID: -6910767229310485324
       vertices: []
       indices: 
       edges: []
@@ -250,14 +385,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: -8}
-        - {x: -8, y: 0}
-        - {x: 8, y: 0}
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
         - {x: 8, y: -8}
+        - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: e050fe2b2f838b120800000000000000
-      internalID: 2429754614001632526
+      spriteID: 3b018fa2276a109f0800000000000000
+      internalID: -503938674011402061
       vertices: []
       indices: 
       edges: []
@@ -275,14 +410,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: -8}
-        - {x: -8, y: 0}
-        - {x: 8, y: 0}
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
         - {x: 8, y: -8}
+        - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 9ec2c13c327850e80800000000000000
-      internalID: -8213009757773222679
+      spriteID: a4dcb34f3215abd00800000000000000
+      internalID: 989192283024510282
       vertices: []
       indices: 
       edges: []
@@ -300,14 +435,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: -8}
-        - {x: -8, y: 0}
-        - {x: 8, y: 0}
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
         - {x: 8, y: -8}
+        - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 7ee49733eac2a3620800000000000000
-      internalID: 2754563248789999335
+      spriteID: 87d6c7cc35ccae620800000000000000
+      internalID: 2804278378276613496
       vertices: []
       indices: 
       edges: []
@@ -316,8 +451,8 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_4
       rect:
         serializedVersion: 2
-        x: 0
-        y: 112
+        x: 64
+        y: 128
         width: 16
         height: 16
       alignment: 0
@@ -325,14 +460,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: 8}
+      - - {x: -8, y: 0}
         - {x: -8, y: -8}
         - {x: 8, y: -8}
-        - {x: 8, y: 8}
+        - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 984ade59cd4cd8f70800000000000000
-      internalID: 9191218866220278921
+      spriteID: c789c8324f5f8da70800000000000000
+      internalID: 8852095496513951868
       vertices: []
       indices: 
       edges: []
@@ -341,7 +476,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_5
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 112
         width: 16
         height: 16
@@ -356,8 +491,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 5d586f71713d91df0800000000000000
-      internalID: -208903811556276779
+      spriteID: e202a4fe40a5bb460800000000000000
+      internalID: 7258494201678667822
       vertices: []
       indices: 
       edges: []
@@ -366,7 +501,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_6
       rect:
         serializedVersion: 2
-        x: 32
+        x: 16
         y: 112
         width: 16
         height: 16
@@ -381,8 +516,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 19b97478461894f70800000000000000
-      internalID: 9172004384883055505
+      spriteID: 2f9aed5980cefc4e0800000000000000
+      internalID: -1959087791264585230
       vertices: []
       indices: 
       edges: []
@@ -391,7 +526,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_7
       rect:
         serializedVersion: 2
-        x: 48
+        x: 32
         y: 112
         width: 16
         height: 16
@@ -406,8 +541,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 7f9b143a2cacf19c0800000000000000
-      internalID: -3954219010496546313
+      spriteID: 8176cfa3d23842980800000000000000
+      internalID: -8564576361065453800
       vertices: []
       indices: 
       edges: []
@@ -416,6 +551,31 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_8
       rect:
         serializedVersion: 2
+        x: 48
+        y: 112
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321ce0cff7c48b500800000000000000
+      internalID: 412163478477783331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_9
+      rect:
+        serializedVersion: 2
         x: 64
         y: 112
         width: 16
@@ -431,33 +591,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: b74403b362e80afa0800000000000000
-      internalID: -5791472825945537413
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_9
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 96
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 8}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0cd75e8f878a570e0800000000000000
-      internalID: -2272725199413215808
+      spriteID: aa01e64b81e41f940800000000000000
+      internalID: 5328125702169301162
       vertices: []
       indices: 
       edges: []
@@ -466,7 +601,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_10
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 96
         width: 16
         height: 16
@@ -481,8 +616,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: a38e659e6dfcfb510800000000000000
-      internalID: 1567199717292959802
+      spriteID: 1401a2ccc8f9c38e0800000000000000
+      internalID: -1712318331238084543
       vertices: []
       indices: 
       edges: []
@@ -491,7 +626,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_11
       rect:
         serializedVersion: 2
-        x: 32
+        x: 16
         y: 96
         width: 16
         height: 16
@@ -506,8 +641,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 487138417866ca7c0800000000000000
-      internalID: -4058756433816905852
+      spriteID: 3a7b4114e1e76ddd0800000000000000
+      internalID: -2461641477905401949
       vertices: []
       indices: 
       edges: []
@@ -516,7 +651,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_12
       rect:
         serializedVersion: 2
-        x: 48
+        x: 32
         y: 96
         width: 16
         height: 16
@@ -525,14 +660,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: 0}
+      - - {x: -8, y: 8}
         - {x: -8, y: -8}
         - {x: 8, y: -8}
-        - {x: 8, y: 0}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 17547cf2271434390800000000000000
-      internalID: -7835346968010865295
+      spriteID: 819d21b9c85b17c60800000000000000
+      internalID: 7814226443966273816
       vertices: []
       indices: 
       edges: []
@@ -541,6 +676,31 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_13
       rect:
         serializedVersion: 2
+        x: 48
+        y: 96
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6a4ad2d5c119b310800000000000000
+      internalID: 1421186698755852906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_14
+      rect:
+        serializedVersion: 2
         x: 64
         y: 96
         width: 16
@@ -556,33 +716,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: d9e28a634601cfb30800000000000000
-      internalID: 4322347764968599197
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_14
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 80
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 0}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 0}
-      tessellationDetail: 0
-      bones: []
-      spriteID: c53560f98dabd0fd0800000000000000
-      internalID: -2374035989010689188
+      spriteID: aac6d4d77fc097b90800000000000000
+      internalID: -7243744268550050646
       vertices: []
       indices: 
       edges: []
@@ -591,7 +726,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_15
       rect:
         serializedVersion: 2
-        x: 16
+        x: 0
         y: 80
         width: 16
         height: 16
@@ -606,8 +741,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 2ed2e6fa518bb0ac0800000000000000
-      internalID: -3887811450027233822
+      spriteID: 7288ae5787d53bb00800000000000000
+      internalID: 843120327204177959
       vertices: []
       indices: 
       edges: []
@@ -616,7 +751,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_16
       rect:
         serializedVersion: 2
-        x: 32
+        x: 16
         y: 80
         width: 16
         height: 16
@@ -631,8 +766,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: a8c1e58d9b9d25bb0800000000000000
-      internalID: -4948653648304530294
+      spriteID: 026ef4c0241c94e60800000000000000
+      internalID: 7947095506890516000
       vertices: []
       indices: 
       edges: []
@@ -641,6 +776,31 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_17
       rect:
         serializedVersion: 2
+        x: 32
+        y: 80
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 597fd0c696fb2e710800000000000000
+      internalID: 1721148467114276757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_18
+      rect:
+        serializedVersion: 2
         x: 48
         y: 80
         width: 16
@@ -656,33 +816,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: dba74756177c37420800000000000000
-      internalID: 2626662297534495421
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_18
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 64
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 8}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 185b79024fd27b960800000000000000
-      internalID: 7617607821262566785
+      spriteID: b19974787a6f15e20800000000000000
+      internalID: 3337719998247835931
       vertices: []
       indices: 
       edges: []
@@ -691,8 +826,8 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_19
       rect:
         serializedVersion: 2
-        x: 16
-        y: 64
+        x: 64
+        y: 80
         width: 16
         height: 16
       alignment: 0
@@ -700,14 +835,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: 8}
+      - - {x: -8, y: 0}
         - {x: -8, y: -8}
         - {x: 8, y: -8}
-        - {x: 8, y: 8}
+        - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 85353cf907a44c390800000000000000
-      internalID: -7799026807121685672
+      spriteID: 012ea6dba3ea9e3c0800000000000000
+      internalID: -4329737999430786544
       vertices: []
       indices: 
       edges: []
@@ -716,7 +851,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_20
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 64
         width: 16
         height: 16
@@ -731,8 +866,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 7aea0da57747b9e90800000000000000
-      internalID: -7017887538353230169
+      spriteID: 50212aa442dddc800800000000000000
+      internalID: 634406270469804549
       vertices: []
       indices: 
       edges: []
@@ -741,7 +876,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_21
       rect:
         serializedVersion: 2
-        x: 48
+        x: 16
         y: 64
         width: 16
         height: 16
@@ -756,8 +891,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 699a7ae76f959a3f0800000000000000
-      internalID: -889080536207218282
+      spriteID: e82365f6b4461aed0800000000000000
+      internalID: -2404530450885889394
       vertices: []
       indices: 
       edges: []
@@ -766,6 +901,56 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_22
       rect:
         serializedVersion: 2
+        x: 32
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a14724bf258ab150800000000000000
+      internalID: 5889165902672773542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 64
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c8655fdbcda4ddb0800000000000000
+      internalID: -4767995014341629759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_24
+      rect:
+        serializedVersion: 2
         x: 64
         y: 64
         width: 16
@@ -781,58 +966,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: b9bba4545f7a894f0800000000000000
-      internalID: -821722260123763813
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_23
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 8}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 330240449e661a270800000000000000
-      internalID: 8259996343628734515
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_24
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 48
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 8}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 00dcd43594f1072e0800000000000000
-      internalID: -2130168223955563264
+      spriteID: ada35352eaec1b850800000000000000
+      internalID: 6391116593559321306
       vertices: []
       indices: 
       edges: []
@@ -841,7 +976,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_25
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 48
         width: 16
         height: 16
@@ -856,8 +991,8 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: ad9dd0841085d9cf0800000000000000
-      internalID: -243942042281059878
+      spriteID: bcb0dfeaefd9d2070800000000000000
+      internalID: 8083290623382981579
       vertices: []
       indices: 
       edges: []
@@ -866,7 +1001,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_26
       rect:
         serializedVersion: 2
-        x: 48
+        x: 16
         y: 48
         width: 16
         height: 16
@@ -875,14 +1010,14 @@ TextureImporter:
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape:
-      - - {x: -8, y: 0}
+      - - {x: -8, y: 8}
         - {x: -8, y: -8}
         - {x: 8, y: -8}
-        - {x: 8, y: 0}
+        - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: b164b1b71dab96010800000000000000
-      internalID: 1182681786037782043
+      spriteID: 682c7f3fa87995350800000000000000
+      internalID: 6005998201129648774
       vertices: []
       indices: 
       edges: []
@@ -891,6 +1026,56 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_27
       rect:
         serializedVersion: 2
+        x: 32
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b78d27a54b4c2e90800000000000000
+      internalID: -7049176554212063312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e0269508540b540800000000000000
+      internalID: 5021590002075831920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_29
+      rect:
+        serializedVersion: 2
         x: 64
         y: 48
         width: 16
@@ -906,58 +1091,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: dd024f744fb3d0120800000000000000
-      internalID: 2381625698314100957
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_28
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 0}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 0}
-      tessellationDetail: 0
-      bones: []
-      spriteID: ba602ff85f0763550800000000000000
-      internalID: 6140219341950551723
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_29
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 32
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 0}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 0}
-      tessellationDetail: 0
-      bones: []
-      spriteID: feb39a90426ff2bd0800000000000000
-      internalID: -2652631020856591377
+      spriteID: ea77078d52fd7fb30800000000000000
+      internalID: 4321167721123313582
       vertices: []
       indices: 
       edges: []
@@ -966,7 +1101,7 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_30
       rect:
         serializedVersion: 2
-        x: 32
+        x: 0
         y: 32
         width: 16
         height: 16
@@ -981,8 +1116,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 1d1f9f09c8f0d2a00800000000000000
-      internalID: 733259410733396433
+      spriteID: 3e3e5b436a4635330800000000000000
+      internalID: 3698410384012993507
       vertices: []
       indices: 
       edges: []
@@ -991,6 +1126,56 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_31
       rect:
         serializedVersion: 2
+        x: 16
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c90a0709edb5cc50800000000000000
+      internalID: 6684958030444497349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_32
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2725a2c1811df0050800000000000000
+      internalID: 5769059549166850674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_33
+      rect:
+        serializedVersion: 2
         x: 48
         y: 32
         width: 16
@@ -1006,58 +1191,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: 353e2bf4fa5758aa0800000000000000
-      internalID: -6159387519542434989
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_32
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 8}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 9eef049c7581478a0800000000000000
-      internalID: -6308390412721520919
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_33
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 16
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape:
-      - - {x: -8, y: 8}
-        - {x: -8, y: -8}
-        - {x: 8, y: -8}
-        - {x: 8, y: 8}
-      tessellationDetail: 0
-      bones: []
-      spriteID: 68580259805d6a2b0800000000000000
-      internalID: -5573533255986018938
+      spriteID: a195215a0d70c8d90800000000000000
+      internalID: -7094286720311338726
       vertices: []
       indices: 
       edges: []
@@ -1066,6 +1201,81 @@ TextureImporter:
       name: Elevated_Simple_Sprite_Sheet_34
       rect:
         serializedVersion: 2
+        x: 64
+        y: 32
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 0}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ef2df4064331850800000000000000
+      internalID: 6346473888155893267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9523f5dbcef7290800000000000000
+      internalID: -7890327724039710232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -8, y: 8}
+        - {x: -8, y: -8}
+        - {x: 8, y: -8}
+        - {x: 8, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b977316a23daab90800000000000000
+      internalID: -7229734072816797258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Elevated_Simple_Sprite_Sheet_37
+      rect:
+        serializedVersion: 2
         x: 32
         y: 16
         width: 16
@@ -1081,14 +1291,14 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 18643bf7a4b0da840800000000000000
-      internalID: 5236854356299695745
+      spriteID: 62dcddb63d8d717d0800000000000000
+      internalID: -2947649028531303130
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_35
+      name: Elevated_Simple_Sprite_Sheet_38
       rect:
         serializedVersion: 2
         x: 48
@@ -1106,14 +1316,14 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 7d35a30098b297740800000000000000
-      internalID: 5150195516289209303
+      spriteID: c78c8b34610c68e20800000000000000
+      internalID: 3352578174481909884
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_36
+      name: Elevated_Simple_Sprite_Sheet_39
       rect:
         serializedVersion: 2
         x: 64
@@ -1131,14 +1341,14 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: d77807df99539b120800000000000000
-      internalID: 2430032409441372029
+      spriteID: 61610e870ac8fbeb0800000000000000
+      internalID: -4701884865100900842
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_37
+      name: Elevated_Simple_Sprite_Sheet_40
       rect:
         serializedVersion: 2
         x: 0
@@ -1156,14 +1366,14 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 82417216d2f0f15f0800000000000000
-      internalID: -783891122561280984
+      spriteID: 9c87c198cfa830d90800000000000000
+      internalID: -7132704567587997495
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_38
+      name: Elevated_Simple_Sprite_Sheet_41
       rect:
         serializedVersion: 2
         x: 16
@@ -1181,14 +1391,14 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: b0fd256553f012350800000000000000
-      internalID: 5990085701135425291
+      spriteID: 967e70269eeb02be0800000000000000
+      internalID: -1503992365960403095
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_39
+      name: Elevated_Simple_Sprite_Sheet_42
       rect:
         serializedVersion: 2
         x: 32
@@ -1206,14 +1416,14 @@ TextureImporter:
         - {x: 8, y: 8}
       tessellationDetail: 0
       bones: []
-      spriteID: 37ec2789b082e81a0800000000000000
-      internalID: -6805457956642828685
+      spriteID: 66db1fdd70f48cc50800000000000000
+      internalID: 6685680542038474086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_40
+      name: Elevated_Simple_Sprite_Sheet_43
       rect:
         serializedVersion: 2
         x: 48
@@ -1231,14 +1441,14 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: d0029f6e57ef9d340800000000000000
-      internalID: 4889218652827099149
+      spriteID: 5e529eb3be3e743a0800000000000000
+      internalID: -6681120922718886427
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Elevated_Simple_Sprite_Sheet_41
+      name: Elevated_Simple_Sprite_Sheet_44
       rect:
         serializedVersion: 2
         x: 64
@@ -1256,8 +1466,8 @@ TextureImporter:
         - {x: 8, y: 0}
       tessellationDetail: 0
       bones: []
-      spriteID: de923ce22eb3ec8e0800000000000000
-      internalID: -1671332569074685459
+      spriteID: b1d267973aa18cc80800000000000000
+      internalID: -8302356623637730021
       vertices: []
       indices: 
       edges: []
