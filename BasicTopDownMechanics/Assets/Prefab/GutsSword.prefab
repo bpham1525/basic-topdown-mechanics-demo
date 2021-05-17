@@ -26,7 +26,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 6240108300629131965}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
@@ -51,6 +51,8 @@ MonoBehaviour:
   foreground_anim: {fileID: 6240108301664038467}
   background_anim: {fileID: 6240108301803474615}
   hitbox: {fileID: 0}
+  ParticleGFX: {fileID: 0}
+  ParticleCollision: {fileID: 0}
 --- !u!70 &6240108300629131966
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -80,6 +82,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 50
+  aps: 1
+  foreground_anim: {fileID: 6240108301803474615}
+  background_anim: {fileID: 6240108301664038467}
 --- !u!1 &6240108301664038470
 GameObject:
   m_ObjectHideFlags: 0
@@ -195,7 +200,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d70e3f18f9e54a04a800ae3063cf1659, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ws: {fileID: 0}
 --- !u!1 &6240108301803474618
 GameObject:
   m_ObjectHideFlags: 0

@@ -27,4 +27,14 @@ public class HitboxHandler : MonoBehaviour
     {
         ws.DisableHitBox();
     }
+
+    public void EnableParticles()
+    {
+        ws.EnableParticles();
+    }
+
+    public void DisableParticles()
+    {
+        ws.DisableParticles();
+    }
 }
